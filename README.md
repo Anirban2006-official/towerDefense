@@ -18,7 +18,7 @@ Aegis Dominion is a browser-based tower defense game rendered on an HTML canvas.
 
 ## Play
 
-No dependencies, build tools, or installation are required. Open [`towerdefense.html`](./towerdefense.html) in a modern web browser.
+No dependencies, build tools, or installation are required. Open [`index.html`](./index.html) in a modern web browser.
 
 Alternatively, serve the project locally from its directory:
 
@@ -26,7 +26,7 @@ Alternatively, serve the project locally from its directory:
 python3 -m http.server 8000
 ```
 
-Then visit [http://localhost:8000](http://localhost:8000) and open `towerdefense.html`.
+Then visit [http://localhost:8000](http://localhost:8000).
 
 ## How to play
 

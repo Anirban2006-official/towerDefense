@@ -26,7 +26,8 @@ Alternatively, serve the project locally from its directory:
 python3 -m http.server 8000
 ```
 
-Then visit [http://localhost:8000](http://localhost:8000).
+Then visit [http://localhost:8000](http://localhost:8000)
+or visit this website: [https://towerdefense-orpin.vercel.app/](https://towerdefense-orpin.vercel.app/)
 
 ## How to play
 
